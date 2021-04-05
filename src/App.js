@@ -1,10 +1,5 @@
 import React, { Component } from "react"
 
-
-// Activating fake backend
-fakeBackend()
-
-
 function App() {
   return (
     <div className="App">
